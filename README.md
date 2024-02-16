@@ -5,11 +5,12 @@
   <li>Library used for the analysis and visualization:</li>
   <ul>
     <li>pandas (dataframe)</li>
+    <li>numpy (data manipulation)</li>
+    <li>matplotlib (creating graph)</li>
+    <li>seaborn (creating graph)</li>
+    <li>sklearn (regression, statistics models,...)</li>
+    <li>scipy (statistics) ...</li>
   </ul>
 </ul>
-  - numpy (data manipulation)
-  - matplotlib (creating graph)
-  - seaborn (creating graph)
-  - sklearn (regression, statistics models,...)
-  - scipy (statistics) ...
+ 
   
